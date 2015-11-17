@@ -1,0 +1,11 @@
+advantage of git
+
+1. small and fast 
+2. Distributed
+3. Data Assurance
+4. Staging Area
+5. Free 
+6. Open Source
+7. Easy to manage Project
+8. Can work with anothor people
+9. Help to keep file 
